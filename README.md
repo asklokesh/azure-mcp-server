@@ -1,5 +1,7 @@
 # Azure MCP Server
 
+<!-- mcp-name: io.github.asklokesh/azure-mcp-server -->
+
 <div align="center">
 
 # Azure Mcp Server
